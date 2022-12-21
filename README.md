@@ -1,5 +1,6 @@
-### Hi! I'm subwoofer. 
 
+<h3><samp>Hi, I'm subwoofer5.</samp></h3>
+<samp>
 <details>
 <summary>About me!</summary>
 <br>
@@ -12,3 +13,4 @@ ill add stuff later
 Well hi!
 ill add stuff later
 </details>
+</samp>
